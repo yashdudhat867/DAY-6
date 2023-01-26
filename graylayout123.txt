@@ -1,0 +1,66 @@
+<html>
+<head>
+    <title>gray layout</title>
+    <h1> Happy Republic Day </h1>
+<style>
+#R1{
+    WIDTH:300PX;
+    height:AUTO;
+    COLOR:rgb(28, 28, 49);
+    PADDING:TOP;
+    background-color:orange;
+    text-align:CENTER;
+    box-shadow: 3px 3px 3px 3px black;
+}
+#R2{
+    WIDTH:300PX;
+    height:auto;
+    clear: both;
+    COLOR:rgb(68, 0, 255);
+    PADDING:TOP;
+    background-color:white;
+    text-align:CENTER;
+    box-shadow: 3px 3px 3px 3px rgb(39, 26, 26);}
+
+  
+#R3{
+    WIDTH:300PX;
+    height:auto;
+    COLOR:rgb(62, 33, 189);
+    PADDING:TOP;
+    background-color:rgb(25, 255, 255);
+    text-align:CENTER;
+    box-shadow: 3px 3px 3px 3px rgb(39, 26, 26);}
+
+ #R4{
+    width:50ox; height:auto;
+ }   
+ 
+ #R4c1{
+    width:50px; margin-right:auto;
+ }
+ #R4 div{
+    background-color: rgb(193, 211, 28); margin-top:50; padding:auto; float: left;
+ }
+ #R5{
+    WIDTH:300PX;
+    height:auto;
+    COLOR:rgb(4, 29, 8);
+    PADDING:TOP;
+    background-color:rgb(22, 252, 22);
+    text-align:CENTER;
+    box-shadow: 3px 3px 3px 3px rgb(39, 26, 26);}
+
+ }
+
+</STYLE>
+</head>
+<BODY>
+    <DIV ID ="R1"><H1>india</H1></DIV>
+    <DIV ID ="R2"><H1>hindu</H1></DIV>
+    <DIV ID ="R3"><H1>hindu</H1></DIV>
+    <div id ="R4"></div>
+        <div id="R4c1"></div>
+     <div id="R5"><H1>india</H1></div>  
+    </BODY>
+</html>
